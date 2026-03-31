@@ -119,7 +119,7 @@ Alternatively, you can explore each challenge individually by checking its corre
 - [Abdussamad](https://github.com/AbSamad99)
 - [Abu](https://github.com/aburiz) `IEEE Concordia`
 - [Alin](https://github.com/serbancaia)
-- [Anis](https://github.com/AnixPasBesoin) `Almunus`
+- [Anis](https://github.com/AnixPasBesoin) `Alumnus`
 - [Augusto](https://github.com/AugustDG) `IEEE Concordia`
 - [Boisghur](https://github.com/boisghur)
 - [Catalina](https://github.com/ctmoon20) `Lead Marketing`
