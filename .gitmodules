@@ -1,0 +1,147 @@
+[submodule "AI/derelict-authenticator"]
+	path = AI/derelict-authenticator
+	url = https://github.com/athack-ctf/chall2026-derelict-authenticator.git
+[submodule "Crypto/identification-alien-or-foe"]
+	path = Crypto/identification-alien-or-foe
+	url = https://github.com/athack-ctf/chall2026-identification-alien-or-foe.git
+[submodule "Crypto/nexuspay"]
+	path = Crypto/nexuspay
+	url = https://github.com/athack-ctf/chall2026-nexuspay.git
+[submodule "Crypto/the-varnyr-glitch"]
+	path = Crypto/the-varnyr-glitch
+	url = https://github.com/athack-ctf/chall2026-the-varnyr-glitch.git
+[submodule "Forensics/cti"]
+	path = Forensics/cti
+	url = https://github.com/athack-ctf/chall2026-cti.git
+[submodule "Forensics/plaid-parliament-of-forensics"]
+	path = Forensics/plaid-parliament-of-forensics
+	url = https://github.com/athack-ctf/chall2026-plaid-parliament-of-forensics.git
+[submodule "Forensics/the-boss-of-the-soc-v1"]
+	path = Forensics/the-boss-of-the-soc-v1
+	url = https://github.com/athack-ctf/chall2026-the-boss-of-the-soc-v1.git
+[submodule "Forensics/the-boss-of-the-soc-v2"]
+	path = Forensics/the-boss-of-the-soc-v2
+	url = https://github.com/athack-ctf/chall2026-the-boss-of-the-soc-v2.git
+[submodule "Hardware/alien-signals"]
+	path = Hardware/alien-signals
+	url = https://github.com/athack-ctf/chall2026-alien-signals.git
+[submodule "Hardware/alien-transmission-decoder"]
+	path = Hardware/alien-transmission-decoder
+	url = https://github.com/athack-ctf/chall2026-alien-transmission-decoder.git
+[submodule "Hardware/close-encounters-of-the-rf-kind"]
+	path = Hardware/close-encounters-of-the-rf-kind
+	url = https://github.com/athack-ctf/chall2026-close-encounters-of-the-rf-kind.git
+[submodule "Hardware/lockpicking"]
+	path = Hardware/lockpicking
+	url = https://github.com/athack-ctf/chall2026-lockpicking.git
+[submodule "Hardware/rfid-kevin-x"]
+	path = Hardware/rfid-kevin-x
+	url = https://github.com/athack-ctf/chall2026-rfid-kevin-x.git
+[submodule "Hardware/xeno-console-wiretap"]
+	path = Hardware/xeno-console-wiretap
+	url = https://github.com/athack-ctf/chall2026-xeno-console-wiretap.git
+[submodule "Misc/badge"]
+	path = Misc/badge
+	url = https://github.com/athack-ctf/chall2026-badge.git
+[submodule "Misc/order-67"]
+	path = Misc/order-67
+	url = https://github.com/athack-ctf/chall2026-order-67.git
+[submodule "Misc/pixcavation"]
+	path = Misc/pixcavation
+	url = https://github.com/athack-ctf/chall2026-pixcavation.git
+[submodule "Misc/t-shirt"]
+	path = Misc/t-shirt
+	url = https://github.com/athack-ctf/chall2026-t-shirt.git
+[submodule "OSINT/waybacking-hexploit"]
+	path = OSINT/waybacking-hexploit
+	url = https://github.com/athack-ctf/chall2026-waybacking-hexploit.git
+[submodule "OSINT/where-s-kevin"]
+	path = OSINT/where-s-kevin
+	url = https://github.com/athack-ctf/chall2026-where-s-kevin.git
+[submodule "Pwn/cheap-irc"]
+	path = Pwn/cheap-irc
+	url = https://github.com/athack-ctf/chall2026-cheap-irc.git
+[submodule "Pwn/into-the-arena"]
+	path = Pwn/into-the-arena
+	url = https://github.com/athack-ctf/chall2026-into-the-arena.git
+[submodule "Pwn/remote-dictionary-sherver"]
+	path = Pwn/remote-dictionary-sherver
+	url = https://github.com/athack-ctf/chall2026-remote-dictionary-sherver.git
+[submodule "Pwn/simplevm"]
+	path = Pwn/simplevm
+	url = https://github.com/athack-ctf/chall2026-simplevm.git
+[submodule "Pwn/telneted"]
+	path = Pwn/telneted
+	url = https://github.com/athack-ctf/chall2026-telneted.git
+[submodule "Rev/34th-intergalactical-alien-convention"]
+	path = Rev/34th-intergalactical-alien-convention
+	url = https://github.com/athack-ctf/chall2026-34th-intergalactical-alien-convention.git
+[submodule "Rev/cheese"]
+	path = Rev/cheese
+	url = https://github.com/athack-ctf/chall2026-cheese.git
+[submodule "Rev/dartime"]
+	path = Rev/dartime
+	url = https://github.com/athack-ctf/chall2026-dartime.git
+[submodule "Rev/evileye"]
+	path = Rev/evileye
+	url = https://github.com/athack-ctf/chall2026-evileye.git
+[submodule "Rev/note-box"]
+	path = Rev/note-box
+	url = https://github.com/athack-ctf/chall2026-note-box.git
+[submodule "Rev/trust-fall"]
+	path = Rev/trust-fall
+	url = https://github.com/athack-ctf/chall2026-trust-fall.git
+[submodule "Stegano/alien-transmission-51"]
+	path = Stegano/alien-transmission-51
+	url = https://github.com/athack-ctf/chall2026-alien-transmission-51.git
+[submodule "Stegano/behind-the-n0tes"]
+	path = Stegano/behind-the-n0tes
+	url = https://github.com/athack-ctf/chall2026-behind-the-n0tes.git
+[submodule "Stegano/mainframe"]
+	path = Stegano/mainframe
+	url = https://github.com/athack-ctf/chall2026-mainframe.git
+[submodule "Stegano/if-cats-disappeard-from-the-world"]
+	path = Stegano/if-cats-disappeard-from-the-world
+	url = https://github.com/athack-ctf/chall2026-if-cats-disappeard-from-the-world.git
+[submodule "Web/terminal-access"]
+	path = Web/terminal-access
+	url = https://github.com/athack-ctf/chall2026-terminal-access.git
+[submodule "Web/venusian-translator"]
+	path = Web/venusian-translator
+	url = https://github.com/athack-ctf/chall2026-venusian-translator.git
+[submodule "Web/zorvax-blog"]
+	path = Web/zorvax-blog
+	url = https://github.com/athack-ctf/chall2026-zorvax-blog.git
+[submodule "Web/entity-crisis"]
+	path = Web/entity-crisis
+	url = https://github.com/athack-ctf/chall2026-entity-crisis.git
+[submodule "Web/chunk-you-very-much"]
+	path = Web/chunk-you-very-much
+	url = https://github.com/athack-ctf/chall2026-chunk-you-very-much.git
+[submodule "Web/hyrcani"]
+	path = Web/hyrcani
+	url = https://github.com/athack-ctf/chall2026-hyrcani.git
+[submodule "Web/gcc-as-a-service"]
+	path = Web/gcc-as-a-service
+	url = https://github.com/athack-ctf/chall2026-gcc-as-a-service.git
+[submodule "Web/if-it-works-dont-patch-it"]
+	path = Web/if-it-works-dont-patch-it
+	url = https://github.com/athack-ctf/chall2026-if-it-works-dont-patch-it.git
+[submodule "Web/interns-portal"]
+	path = Web/interns-portal
+	url = https://github.com/athack-ctf/chall2026-interns-portal.git
+[submodule "Web/pied-pipyer"]
+	path = Web/pied-pipyer
+	url = https://github.com/athack-ctf/chall2026-pied-pipyer.git
+[submodule "Web/first-contact"]
+	path = Web/first-contact
+	url = https://github.com/athack-ctf/chall2026-first-contact.git
+[submodule "Web/notes-from-the-overground"]
+	path = Web/notes-from-the-overground
+	url = https://github.com/athack-ctf/chall2026-notes-from-the-overground.git
+[submodule "Web/alien-archives"]
+	path = Web/alien-archives
+	url = https://github.com/athack-ctf/chall2026-alien-archives.git
+[submodule "Web/military-drones"]
+	path = Web/military-drones
+	url = https://github.com/athack-ctf/chall2026-military-drones.git
