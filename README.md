@@ -150,7 +150,7 @@ Alternatively, you can explore each challenge individually by checking its corre
 ## Bonus! 🎨
 
 - [Short story 🎥: Back to the AtHack!](https://www.youtube.com/watch?v=1PwnTNb1jT8&ab_channel=AtHackCTF)
-- [Theme song 🎶: The man from outer space](https://www.youtube.com/watch?v=1PwnTNb1jT8&ab_channel=AtHackCTF)
+- [Theme song 🎶: The man from outer space](https://youtu.be/qLtNeQ6E0HQ?si=Vf2Gyc7AqjzlFXzg)
 - [Cheese challenge 🧀: Behind the scenes artwork](https://docs.google.com/presentation/d/1yHeTjCG5Fh3oWO7VkybWmPoZ-REvxJEW-ekEzEt7luQ/)
 
 ## Follow us for more
