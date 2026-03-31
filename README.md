@@ -17,7 +17,7 @@ University in Montreal.
 - **Location**: Concordia University, Montreal
 - **Dates**: March 7th-8th, 2026
 - **Prizes**: $16K in cash (💰) + nearly $6K in total sponsor prizes (🎁)
-- **Results**: [Check on full scoreboard CTFTime](https://ctftime.org/event/3027)
+- **Results**: [Check the full scoreboard on CTFTime](https://ctftime.org/event/3027)
 
 <details>
 <summary>
