@@ -54,7 +54,7 @@ Click here to see all @Hack 2026 prizes.
 Fetch all challenges at once by cloning this repo recursively:
 
 ```
-git clone --recurse-submodules --remote-submodules   https://github.com/athack-ctf/AtHackCTF-2026-Challenges.git
+git clone --recurse-submodules --remote-submodules https://github.com/athack-ctf/AtHackCTF-2026-Challenges.git
 ```
 
 Alternatively, you can explore each challenge individually by checking its corresponding repo (see below).
